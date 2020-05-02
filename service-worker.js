@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/dondecomprarjunaebcl/precache-manifest.81634070faed41ab7d064f603a7be4a9.js"
+  "/dondecomprarjunaebcl/precache-manifest.444ce512607f9735f5fe7f4a63c4dbb5.js"
 );
 
 self.addEventListener('message', (event) => {
